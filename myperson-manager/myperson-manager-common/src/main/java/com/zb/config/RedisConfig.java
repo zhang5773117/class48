@@ -10,7 +10,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 public class RedisConfig {
     //张三1
     //一个工具类
-    //李四
+    //李四11
     @Bean
     public RedisTemplate<String, Object> create(RedisConnectionFactory f) {
         RedisTemplate rt = new RedisTemplate();
