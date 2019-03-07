@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Test {
     //hub
+    //本地
     public static void main(String[] args) {
         SpringApplication.run(Test.class, args);
     }
